@@ -1,4 +1,4 @@
-## 0.0.1
+## 1.0.1
 
 * Initial release.
 * `SectionConfig` — model for declaring scrollable sections.
