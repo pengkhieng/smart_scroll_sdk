@@ -1,0 +1,16 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    - prefer_const_constructors
+    - prefer_const_declarations
+    - prefer_final_fields
+    - prefer_final_locals
+    - avoid_print
+    - use_key_in_widget_constructors
+    - sort_constructors_first
+
+analyzer:
+  errors:
+    missing_required_param: error
+    missing_return: error

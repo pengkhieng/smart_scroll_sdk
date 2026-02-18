@@ -1,0 +1,27 @@
+name: smart_tab_scroll
+description: A Flutter SDK for building smart-scrolling screens with a liquid-glass app bar and auto-managed tab bar.
+version: 0.0.1
+homepage: https://github.com/nicePeng/smart_tab_scroll
+repository: https://github.com/nicePeng/smart_tab_scroll
+topics:
+  - scroll
+  - tabbar
+  - glass
+  - appbar
+  - ui
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
