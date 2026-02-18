@@ -21,7 +21,7 @@ independently, in parallel, without waiting for others.
 
 ```yaml
 dependencies:
-  smart_tab_scroll: ^0.0.1
+  smart_tab_scroll: ^1.0.1
 ```
 
 ```dart
