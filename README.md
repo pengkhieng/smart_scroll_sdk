@@ -13,6 +13,8 @@ independently, in parallel, without waiting for others.
 ![Before scroll](https://raw.githubusercontent.com/pengkhieng/smart_scroll_sdk/main/doc/screenshots/one_before_scroll.png)
 ![General section](https://raw.githubusercontent.com/pengkhieng/smart_scroll_sdk/main/doc/screenshots/two_section_general.png)
 
+![General section](https://raw.githubusercontent.com/pengkhieng/smart_scroll_sdk/main/doc/videos/v_demo.gif)
+
 ---
 
 ## Installation
